@@ -78,10 +78,15 @@ This project combines multimodal representation learning and statistical modelin
 
 ### Engagement by Novelty Group
 
-![Figure3](figures/figure4.png)
+![Figure3](figures/figure2.png)
 
 ---
 
+## Reproducibility
+
+Full analysis notebook:
+
+[Full Analysis Pipeline](notebooks/full_analysis_pipeline.ipynb)
 ## Paper
 
 Full paper:
